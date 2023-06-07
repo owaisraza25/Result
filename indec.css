@@ -1,0 +1,38 @@
+body{
+    margin: 80px;
+    margin-top: 0%;
+}
+
+/* tr{
+    margin: 10px;
+    padding: 10px;
+} */
+
+td{
+    text-align: center;
+}
+
+
+li{
+    font-size: 20px;
+    padding: 10px;
+}
+
+
+input[type = number]{
+    height: 25px;
+    border: none;
+}
+
+
+.bg-color-1{
+    background-color: rgb(41, 201, 41);
+}
+
+.bg-color-2{
+    background-color: rgb(50, 109, 238);
+}
+
+.bg-color-3{
+    background-color: yellow;
+}
